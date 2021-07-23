@@ -1,0 +1,15 @@
+/<body>/d;
+/<entry>/d;
+s/<\/entry>/;;/;
+/<form>/d;
+s/<\/form>/../;
+s/<orth>//;
+s/<\/orth>/,,/
+s/<pron>//;
+s/<\/pron>//;
+/<sense/d;
+/<\/sense>/d;
+/<cit/d;
+/<\/cit/d;
+s/<quote>//;
+s/<\/quote>/,,/;

@@ -1,0 +1,5 @@
+
+info () {
+	echo "info";
+}
+
